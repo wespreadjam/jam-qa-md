@@ -16,3 +16,5 @@ fold it into a project later, and find it again by meaning, not by the exact wor
 Quillmark runs on macOS, Windows, iOS and Android. Over 40,000 students, researchers and writers use it daily.
 
 [See pricing]({{ '/pricing/' | relative_url }}) or [read the blog]({{ '/blog/' | relative_url }}).
+
+Last reviewed November 3, 2026 (030419).
