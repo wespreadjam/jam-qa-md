@@ -1,0 +1,6 @@
+title: Quillmark
+description: Quillmark is a fast, private note-taking app for people who think in outlines.
+url: "https://wespreadjam.github.io"
+baseurl: "/jam-qa-md"
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown

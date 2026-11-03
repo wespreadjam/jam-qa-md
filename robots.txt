@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wespreadjam.github.io/jam-qa-md/sitemap.xml
