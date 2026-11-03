@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "What are the best alternatives to BrightEdge for monitoring AI search engine citations?"
 description: "Compare BrightEdge alternatives for AI citation tracking, including pricing, platform coverage, and self-serve options for growth teams."
 ---
