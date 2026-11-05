@@ -1,0 +1,13 @@
+---
+layout: null
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+## Key pages
+
+- [Home]({{ '/' | absolute_url }}): {{ site.description }}
+- [Features]({{ '/features/' | absolute_url }}): Outlines, backlinks, semantic search, offline sync and end-to-end encryption.
+- [Pricing]({{ '/pricing/' | absolute_url }}): Plans, what each plan includes and answers to common questions.
+- [Blog]({{ '/blog/' | absolute_url }}): Articles about note-taking, outlining and backlinks.
