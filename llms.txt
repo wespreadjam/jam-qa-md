@@ -1,0 +1,10 @@
+# Quillmark
+
+> Quillmark is a fast, private note-taking app for people who think in outlines: foldable outlines, automatic backlinks, semantic search, end-to-end encrypted offline sync, and publishing notes as pages. It runs on macOS, Windows, iOS and Android.
+
+## Main pages
+
+- [Home](https://wespreadjam.github.io/jam-qa-md/): What Quillmark is, who it is for, and the platforms it runs on.
+- [Features](https://wespreadjam.github.io/jam-qa-md/features/): Outlines, backlinks, semantic search, offline sync with end-to-end encryption, and publishing notes as public pages.
+- [Pricing](https://wespreadjam.github.io/jam-qa-md/pricing/): Plans and prices for Free, Pro and Teams, plus the student offer.
+- [Blog](https://wespreadjam.github.io/jam-qa-md/blog/): Articles on outlining, backlinks and note-taking apps.
