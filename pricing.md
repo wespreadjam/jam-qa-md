@@ -13,7 +13,15 @@ description: Quillmark pricing. Free for personal notes, $8 per month for Pro, $
 | Pro | $8 / month | Unlimited devices, version history, semantic search, publishing |
 | Teams | $14 / user / month | Shared spaces, admin controls, SSO, priority support |
 
-Students get Pro free with a school email. Every paid plan has a 14-day refund window.
+Every paid plan has a 14-day refund window.
+
+## Students
+
+Students get Quillmark Pro free with a school email. It is the same Pro plan that costs $8 / month for everyone else, including unlimited devices, version history, semantic search and publishing.
+
+**How to claim it.** Use your school email address when you sign up for Quillmark.
+
+**After you graduate.** You keep Pro until your school email expires.
 
 ## FAQ
 
